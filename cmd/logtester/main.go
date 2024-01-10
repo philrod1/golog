@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"os"
 	"time"
-	mdcloggo "gerrit.o-ran-sc.org/r/com/golog"
+	mdcloggo "github.com/philrod1/golog"
 )
 
 func main() {
