@@ -1,6 +1,8 @@
-module gerrit.o-ran-sc.org/r/com/golog
+module github.com/philrod1/golog
 
 go 1.18
+
+replace gerrit.o-ran-sc.org/r/com/golog => github.com/philrod1/golog v1.0.0
 
 require (
 	github.com/stretchr/testify v1.4.0
